@@ -138,7 +138,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Product",
-  "url": "https://posp.tmf.co.in/pos_agreement/",
+  "url": "https://posp.tmf.co.in/",
   "name": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
   "sku": "4302118744",
   "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
@@ -234,7 +234,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     }
   ]
 }
@@ -246,27 +246,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://posp.tmf.co.in/pos_agreement/#org",
+      "@id": "https://posp.tmf.co.in/#org",
       "name": "GACOR777",
-      "url": "https://posp.tmf.co.in/pos_agreement/",
+      "url": "https://posp.tmf.co.in/",
       "logo": "https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://posp.tmf.co.in/pos_agreement/#website",
-      "url": "https://posp.tmf.co.in/pos_agreement/",
+      "@id": "https://posp.tmf.co.in/#website",
+      "url": "https://posp.tmf.co.in/",
       "name": "GACOR777",
-      "publisher": { "@id": "https://posp.tmf.co.in/pos_agreement/#org" },
+      "publisher": { "@id": "https://posp.tmf.co.in/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://posp.tmf.co.in/pos_agreement/?s={search_term_string}",
+        "target": "https://posp.tmf.co.in/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://posp.tmf.co.in/pos_agreement/#app",
+      "@id": "https://posp.tmf.co.in/#app",
       "name": "GACOR777",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -282,7 +282,7 @@
   "@type": "Organization",
   "name": "GACOR777",
   "alternateName": "SLOT ONLINE",
-  "url": "https://posp.tmf.co.in/pos_agreement/",
+  "url": "https://posp.tmf.co.in/",
   "logo": "https://res.cloudinary.com/dxhrgaijk/image/upload/v1767526553/GACOR777u_bzgho2.png",
   "image": "https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg",
   "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
@@ -305,7 +305,7 @@
   "sameAs": [
     "https://www.youtube.com/@GACOR777",
     "https://linklist.bio/GACOR777/",
-    "https://posp.tmf.co.in/pos_agreement/"
+    "https://posp.tmf.co.in/"
   ]
 }
 </script>
@@ -322,7 +322,7 @@
   "headline": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
   "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
   "image": "https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg",
-  "url": "https://posp.tmf.co.in/pos_agreement/",
+  "url": "https://posp.tmf.co.in/",
   "publisher": {
     "@type": "Organization",
     "name": "GACOR777"
@@ -373,10 +373,10 @@
   },
   "sku": "GACOR777-RESMI2025",
   "mpn": "77GCR-001",
-  "url": "https://posp.tmf.co.in/pos_agreement/",
+  "url": "https://posp.tmf.co.in/",
   "offers": {
     "@type": "Offer",
-    "url": "https://posp.tmf.co.in/pos_agreement/",
+    "url": "https://posp.tmf.co.in/",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -430,49 +430,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "GACOR777",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Slot gacor",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT777",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "Slot Gacor 777",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "Slot Gacor 777 4D",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SLOT ONLINE",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "Pelayanan Toto",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "Whitelabel Resmi",
-      "item": "https://posp.tmf.co.in/pos_agreement/"
+      "item": "https://posp.tmf.co.in/"
     }
   ]
 }
@@ -484,15 +484,15 @@
                 "@graph": [
                     {
                     "@type": "WebSite",
-                    "@id": "https://posp.tmf.co.in/pos_agreement/",
-                    "url": "https://posp.tmf.co.in/pos_agreement/",
+                    "@id": "https://posp.tmf.co.in/",
+                    "url": "https://posp.tmf.co.in/",
                     "name": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
                     "potentialAction": [
                         {
                         "@type": "SearchAction",
                         "target": {
                             "@type": "EntryPoint",
-                            "urlTemplate": "https://posp.tmf.co.in/pos_agreement/?s={search_term_string}"
+                            "urlTemplate": "https://posp.tmf.co.in/?s={search_term_string}"
                         },
                         "query-input": "required name=search_term_string"
                         }
@@ -501,33 +501,33 @@
                     },
                     {
                     "@type": "CollectionPage",
-                    "@id": "https://posp.tmf.co.in/pos_agreement/#webpage",
-                    "url": "https://posp.tmf.co.in/pos_agreement/",
+                    "@id": "https://posp.tmf.co.in/#webpage",
+                    "url": "https://posp.tmf.co.in/",
                     "name": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
                     "isPartOf": {
-                        "@id": "https://posp.tmf.co.in/pos_agreement/#website"
+                        "@id": "https://posp.tmf.co.in/#website"
                     },
                     "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
                     "breadcrumb": {
-                        "@id": "https://posp.tmf.co.in/pos_agreement/#breadcrumb"
+                        "@id": "https://posp.tmf.co.in/#breadcrumb"
                     },
                     "inLanguage": "id-ID",
                     "potentialAction": [
                         {
                         "@type": "ReadAction",
-                        "target": ["https://posp.tmf.co.in/pos_agreement/"]
+                        "target": ["https://posp.tmf.co.in/"]
                         }
                     ]
                     },
                     {
                     "@type": "BreadcrumbList",
-                    "@id": "https://posp.tmf.co.in/pos_agreement/#breadcrumb",
+                    "@id": "https://posp.tmf.co.in/#breadcrumb",
                     "itemListElement": [
                         {
                         "@type": "ListItem",
                         "position": 1,
                         "name": "Home",
-                        "item": "https://posp.tmf.co.in/pos_agreement/"
+                        "item": "https://posp.tmf.co.in/"
                         }
                     ]
                     }
@@ -554,7 +554,7 @@
                     "SLOT ONLINE"
                 ],
                 "image": "https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg",
-                "url": "https://posp.tmf.co.in/pos_agreement/",
+                "url": "https://posp.tmf.co.in/",
                 "publisher": {
                     "@type": "Organization",
                     "name": "GACOR777"
@@ -575,10 +575,10 @@
                 "@context": "http://schema.org",
                 "@type": "Article",
                 "@id": "#article",
-                "mainEntityOfPage": "https://posp.tmf.co.in/pos_agreement/",
+                "mainEntityOfPage": "https://posp.tmf.co.in/",
                 "headline": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
                 "name": "GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini",
-                "url": "https://posp.tmf.co.in/pos_agreement/",
+                "url": "https://posp.tmf.co.in/",
                 "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
                 "image": "https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg",
                 "datePublished": "2024-02-11T08:02:40+00:00",
@@ -586,11 +586,11 @@
                 "author": {
                 "@type": "Person",
                 "name": "GACOR777",
-                "url": "https://posp.tmf.co.in/pos_agreement/"
+                "url": "https://posp.tmf.co.in/"
                 },
                 "publisher": {
                 "@type": "Organization",
-                "name": "https://posp.tmf.co.in/pos_agreement/",
+                "name": "https://posp.tmf.co.in/",
                 "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
                 "logo": {
                     "@type": "ImageObject",
@@ -608,7 +608,7 @@
                 "@type": "Organization",
                 "name": "GACOR777",
                 "alternateName": "SLOT ONLINE",
-                "url": "https://posp.tmf.co.in/pos_agreement/",
+                "url": "https://posp.tmf.co.in/",
                 "logo": "https://res.cloudinary.com/dxhrgaijk/image/upload/v1767526553/GACOR777u_bzgho2.png",
                 "description": "GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini.",
                 "address": {
@@ -630,7 +630,7 @@
                 "sameAs": [
                 "https://www.youtube.com/@GACOR777",
                 "https://twitter.com/GACOR777",
-                "https://posp.tmf.co.in/pos_agreement/"
+                "https://posp.tmf.co.in/"
                 ]
                 }
                 </script>
@@ -642,13 +642,13 @@
                     "@type": "ListItem", 
                     "position": 1,
                     "name": "Home",
-                    "item": "https://posp.tmf.co.in/pos_agreement/"
+                    "item": "https://posp.tmf.co.in/"
                 },
                 {
                     "@type": "ListItem", 
                     "position": 2, 
                     "name": "GACOR777",
-                    "item": "https://posp.tmf.co.in/pos_agreement/"
+                    "item": "https://posp.tmf.co.in/"
                 },
                 {
                     "@type": "ListItem", 
@@ -750,7 +750,7 @@
 <meta name="twitter:site" content="@GACOR777" value="" /><meta name="twitter:card" content="summary_large_image" value="" /><meta name="twitter:app:name:iphone" content="GACOR777" value="" /><meta name="twitter:app:url:iphone" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:iphone" content="477128284" value="" /><meta name="twitter:app:name:ipad" content="GACOR777" value="" /><meta name="twitter:app:url:ipad" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:ipad" content="477128284" value="" /><meta name="twitter:app:name:googleplay" content="GACOR777" value="" /><meta name="twitter:app:url:googleplay" content="etsy://listing/4302118744?ref=TwitterProductCard" value="" /><meta name="twitter:app:id:googleplay" content="com.etsy.android" value="" />
 <meta property="og:title" content="GACOR777: Situs Link Slot Gacor 777 Resmi apk Slot777 Donwload Di sini" />
 <meta property="og:description" content="GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini." />
-<meta property="og:type" content="product" /><meta property="og:url" content="https://posp.tmf.co.in/pos_agreement/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" />
+<meta property="og:type" content="product" /><meta property="og:url" content="https://posp.tmf.co.in/?utm_source=OpenGraph&utm_medium=PageTools&utm_campaign=Share" />
 <meta property="og:image" content="https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg" />
 <meta property="product:price:amount" content="22.50" /><meta property="product:price:currency" content="GBP" />    
 <meta property="al:ios:url" content="etsy://listing/4302118744?ref=applinks_ios" />
@@ -764,9 +764,9 @@
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 <link rel="preload" as="image" imagesrcset="https://i.pinimg.com/736x/d7/9d/71/d79d71ed73de4fe9f8d40c6e2c59439c.jpg" fetchpriority="high" />
-<link rel="canonical" href="https://posp.tmf.co.in/pos_agreement/" />
+<link rel="canonical" href="https://posp.tmf.co.in/" />
 <link rel="amphtml" href="https://posp-tmf-co-in.pages.dev/" />
-<link rel="alternate" href="https://posp.tmf.co.in/pos_agreement/" hreflang="en" />
+<link rel="alternate" href="https://posp.tmf.co.in/" hreflang="en" />
 
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">__webpack_public_path__ = "https://www.etsy.com/ac/evergreenVendor/js/en-US/";</script>
@@ -844,7 +844,7 @@
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">!function(e){var r=e.__etsy_logging;if(r&&r.perf&&r.perf.prefixMarkMeasure){var n=r.perf.prefixMarkMeasure("logo_render");e.performance&&e.performance.mark&&e.requestAnimationFrame((function(){setTimeout((function(){e.performance.mark(n)}))}))}}(window);</script>
 <div class="wt-pb-lg-0 wt-pt-sm-1 wt-pt-lg-0 wt-pr-xs-0 wt-pr-sm-1 " data-header-logo-container>
-    <a href="https://posp.tmf.co.in/pos_agreement/" elementtiming="ux-global-nav">
+    <a href="https://posp.tmf.co.in/" elementtiming="ux-global-nav">
         <span class="wt-screen-reader-only">GACOR777</span>
         <span class="etsy-icon wt-display-block wt-fill-orange wt-nudge-r-3 wt-nudge-t-1 logo-dimensions" id="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 24" aria-hidden="true" focusable="false"><path d="M6.547,3.125v6.008c0,0,2.117,0,3.25-0.086c0.891-0.156,1.055-0.242,1.219-1.133l0.328-1.305h0.969l-0.164,2.852 l0.086,2.922h-0.977l-0.242-1.141c-0.242-0.812-0.57-0.977-1.219-1.055c-0.812-0.086-3.25-0.086-3.25-0.086v5.039 c0,0.969,0.492,1.383,1.625,1.383h3.414c1.055,0,2.109-0.086,2.766-1.625l0.883-1.953h0.82c-0.086,0.406-0.492,3.984-0.57,4.789 c0,0-3.086-0.078-4.383-0.078H5.25l-3.492,0.078v-0.883l1.133-0.25c0.82-0.164,1.062-0.406,1.062-1.055 c0,0,0.086-2.195,0.086-5.852c0-3.648-0.086-5.844-0.086-5.844c0-0.727-0.242-0.891-1.062-1.055L1.758,2.555V1.664l3.414,0.07h6.5 c1.297,0,3.484-0.234,3.484-0.234s-0.078,1.375-0.164,4.625h-0.891l-0.328-1.141c-0.32-1.461-0.805-2.188-1.703-2.188H6.961 C6.547,2.797,6.547,2.875,6.547,3.125z M19.703,3.766h0.977V7.18l3.336-0.164l-0.164,1.547l-3.25-0.25v6.016 c0,1.703,0.57,2.359,1.547,2.359c0.883,0,1.539-0.492,1.781-0.898l0.484,0.57c-0.484,1.133-1.859,1.703-3.164,1.703 c-1.617,0-2.93-0.969-2.93-2.836V8.398h-1.938V7.586C18.008,7.422,19.219,6.445,19.703,3.766z M26.695,14.242l0.648,1.547 c0.242,0.648,0.812,1.305,2.109,1.305c1.383,0,1.953-0.734,1.953-1.625c0-2.766-5.445-1.953-5.445-5.688c0-2.109,1.703-3.094,3.898-3.094c0.977,0,2.438,0.164,3.172,0.492c-0.164,0.812-0.25,1.867-0.25,2.68l-0.805,0.078l-0.57-1.625 c-0.164-0.398-0.82-0.727-1.625-0.727c-0.977,0-1.953,0.406-1.953,1.461c0,2.516,5.609,1.953,5.609,5.688c0,2.117-1.867,3.25-4.148,3.25c-1.703,0-3.414-0.656-3.414-0.656c0.164-0.969,0.086-2.023,0-3.086H26.695z M33.031,22.039 c0.242-0.891,0.406-2.023,0.57-3.086l0.891-0.078l0.328,1.703c0.078,0.406,0.32,0.734,0.969,0.734c1.055,0,2.438-0.648,3.742-2.922 c-0.578-1.383-2.281-5.844-3.828-9.258c-0.406-0.898-0.484-0.977-1.047-1.141l-0.414-0.156v-0.82l2.445,0.086l3-0.164V7.75 l-0.734,0.164c-0.57,0.078-0.805,0.398-0.805,0.727c0,0.086,0,0.164,0.078,0.328c0.156,0.492,1.461,4.141,2.438,6.578c0.805-1.703,2.352-5.523,2.594-6.172c0.086-0.328,0.164-0.406,0.164-0.648c0-0.414-0.242-0.656-0.805-0.812L42.039,7.75V6.938 l2.281,0.078l2.109-0.078V7.75l-0.406,0.32c-0.812,0.328-0.898,0.406-1.219,1.062l-3.57,8.359 c-2.117,4.797-4.312,5.203-5.852,5.203C34.406,22.695,33.672,22.445,33.031,22.039z"/></svg></span>
     </a>
@@ -1018,7 +1018,7 @@
     data-ge-hover-event-name="gnav_hover_favorites_menu"
 >
     <span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
-        <a href="https://posp.tmf.co.in/pos_agreement/"
+        <a href="https://posp.tmf.co.in/"
            data-favorites-nav-link
            aria-labelledby="ge-tooltip-label-favorites">
             <span class="etsy-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M20.877 12.52q.081-.115.147-.239A6 6 0 0 0 12 4.528a6 6 0 0 0-9.024 7.753q.066.123.147.24l.673.961a6 6 0 0 0 .789.915L12 21.422l7.415-7.025q.44-.418.789-.915zm-14.916.425L12 18.667l6.04-5.722q.293-.279.525-.61l.673-.961a.3.3 0 0 0 .044-.087 4 4 0 1 0-7.268-2.619v.003L12 8.667l-.013.004v-.002l-.006-.064a3.98 3.98 0 0 0-1.232-2.51 4 4 0 0 0-6.031 5.193q.014.045.044.086l.673.961a4 4 0 0 0 .526.61"/></svg></span>
@@ -1029,7 +1029,7 @@
 </li>
 <li data-gift-mode-nav-container>
     <span class="wt-tooltip wt-tooltip--disabled-touch" data-wt-tooltip>
-        <a href="https://posp.tmf.co.in/pos_agreement/"
+        <a href="https://posp.tmf.co.in/"
            class=" wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon reduced-margin-xs header-button"
            data-gift-mode-nav-link
            aria-labelledby="ge-tooltip-label-gift-mode">
@@ -1048,7 +1048,7 @@
     data-ge-hover-event-name="gnav_hover_cart_menu"
 >
     <span class="wt-tooltip wt-tooltip--bottom-left wt-tooltip--disabled-touch" data-wt-tooltip data-header-cart-button>
-        <a aria-label="Cart" href="https://posp.tmf.co.in/pos_agreement/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
+        <a aria-label="Cart" href="https://posp.tmf.co.in/cart?ref=hdr-cart" class="wt-tooltip__trigger wt-tooltip__trigger--icon-only wt-btn wt-btn--transparent wt-btn--icon header-button">
             <span class="wt-z-index-1 wt-no-wrap wt-display-none ge-cart-badge wt-badge wt-badge--notificationPrimary wt-badge--small wt-badge--outset-top-right" data-selector="header-cart-count" aria-hidden="true">
                 0
             </span>
@@ -1073,7 +1073,7 @@
                       
                       <li class="wt-mr-xs-3">
   <a
-    href="https://posp.tmf.co.in/pos_agreement/"
+    href="https://posp.tmf.co.in/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -1085,7 +1085,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://posp.tmf.co.in/pos_agreement/"
+    href="https://posp.tmf.co.in/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -1095,7 +1095,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://posp.tmf.co.in/pos_agreement/"
+    href="https://posp.tmf.co.in/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -1105,7 +1105,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://posp.tmf.co.in/pos_agreement/"
+    href="https://posp.tmf.co.in/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -1115,7 +1115,7 @@
   </a>
 </li><li class="wt-mr-xs-3">
   <a
-    href="https://posp.tmf.co.in/pos_agreement/"
+    href="https://posp.tmf.co.in/"
     class="wt-btn wt-btn--transparent wt-btn--small "
     data-menu-ui="menuitem"
     data-ui="top-nav-category-link"
@@ -1305,11 +1305,11 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://posp.tmf.co.in/pos_agreement/">GACOR777</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://posp.tmf.co.in/">GACOR777</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://posp.tmf.co.in/pos_agreement/">SLOT ONLINE</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://posp.tmf.co.in/">SLOT ONLINE</a>
                         </li>
                            <pre> | </pre> 
                          </li>   
@@ -1358,7 +1358,7 @@ if (clientloggerIsEnabled) {
 </span>
     </button>
     <div id="etsys_pick" role="tooltip">
-        GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini. <p class="wt-mt-xs-3"><a href="https://posp.tmf.co.in/pos_agreement/" target="_blank"> GACOR777 </a></p>
+        GACOR777 adalah situs link slot gacor 777 resmi dengan apk slot777 yang aman dan mudah di gunakan. Nikmati permainan seru, akses cepat, dan donwload langsung di sini untuk pengalaman slot terbaik hari ini. <p class="wt-mt-xs-3"><a href="https://posp.tmf.co.in/" target="_blank"> GACOR777 </a></p>
     </div>
 </div>
         </div>
@@ -2216,7 +2216,7 @@ if (clientloggerIsEnabled) {
 </div>
 
 <div class="wt-display-flex-xs wt-justify-content-flex-end wt-mt-xs-3">
-        <a class="wt-text-link wt-text-link-underline" href="https://posp.tmf.co.in/pos_agreement/">
+        <a class="wt-text-link wt-text-link-underline" href="https://posp.tmf.co.in/">
         <span class="wt-icon wt-icon--smaller-xs wt-nudge-r-4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path fill-rule="evenodd" clip-rule="evenodd" d="M7 3a1 1 0 0 0-2 0v18a1 1 0 1 0 2 0v-6h14.766l-3.6-6 3.6-6zm0 2v8h11.234l-2.4-4 2.4-4z"/></svg></span>Report this item to GACOR777
     </a>
     </div>
@@ -2508,7 +2508,7 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://posp.tmf.co.in/" class="wt-text-link-no-underline wt-sem-text-primary">
         GACOR777
     </a>
 </span>
@@ -5164,7 +5164,7 @@ if (clientloggerIsEnabled) {
 <li class="wt-block-grid__item wt-display-flex-xs wt-align-items-flex-start">
             <div><span class="wt-icon wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4.5 8v7H3v5h5v-1.25h2.5v-2H8V15H6.5V8H8V6.5h7V8h1.75v2.457l2 1.714V8H20V3h-5v1.5H8V3H3v5z"/><path d="m12.39 9.129 9.273 7.971-4.17.29 1.378 3-2.272 1.043-1.36-2.962-2.854 2.887z"/></svg></span></div>
         <div class="wt-ml-xs-1 how-its-made-label-product-details">
-                Designed by <a href=https://posp.tmf.co.in/pos_agreement/ target="_blank" class="wt-text-link-no-underline wt-text-title"> GACOR777</a>
+                Designed by <a href=https://posp.tmf.co.in/ target="_blank" class="wt-text-link-no-underline wt-text-title"> GACOR777</a>
         </div>
 </li>
 </div>
@@ -5312,7 +5312,7 @@ if (clientloggerIsEnabled) {
             </button>
             <div id="shipping-highlights-estimated-delivery-date-popover" role="tooltip">
                 <p class="wt-text-caption wt-mb-xs-1">
-                    Jika anda bermain dapa situs <a href='https://posp.tmf.co.in/pos_agreement/' target='_blank'>GACOR777</a> yang memiliki lisensi resmi seperti SLOT ONLINE. Anda berhak mendapatkan hadiah tambahan yang besar hari ini.
+                    Jika anda bermain dapa situs <a href='https://posp.tmf.co.in/' target='_blank'>GACOR777</a> yang memiliki lisensi resmi seperti SLOT ONLINE. Anda berhak mendapatkan hadiah tambahan yang besar hari ini.
                 </p>
                 <span class="wt-popover__arrow"></span>
             </div>
@@ -5796,7 +5796,7 @@ if (clientloggerIsEnabled) {
             <br>
             Berbelanja dengan percaya diri di GACOR777, mengetahui jika terjadi kesalahan pada pesanan, kami siap membantu Anda untuk semua pembelian yang memenuhi syarat —
             <a 
-               href="https://posp.tmf.co.in/pos_agreement/"
+               href="https://posp.tmf.co.in/"
                target="_blank"
                class="wt-text-link">
                 see program terms
@@ -5883,13 +5883,13 @@ if (clientloggerIsEnabled) {
     <div>
         <p class="wt-text-heading-small wt-line-height-tight wt-mb-lg-1">GACOR777</p>
         <p class=" wt-sem-text-primary wt-text-caption">
-            Owner of <a href='https://posp.tmf.co.in/pos_agreement/' class='wt-text-link'>SLOT777</a>
+            Owner of <a href='https://posp.tmf.co.in/' class='wt-text-link'>SLOT777</a>
         </p>
         <div data-follow-shop-region>
     <div data-action="follow-shop-button-container" class="wt-display-flex-xs wt-align-items-center">
         <input type="hidden" class="id" name="user_id" value="386926495"/>
             <a
-                href="https://posp.tmf.co.in/pos_agreement/"
+                href="https://posp.tmf.co.in/"
                 rel="nofollow"
                 data-downtime-overlay-type="favorite"
                 data-supplemental-state--use_follow_text="true"
@@ -6023,7 +6023,7 @@ if (clientloggerIsEnabled) {
                     <p class="wt-mb-xs-2 wt-mt-xs-2">
                         Need to get in touch with the seller? Try <a
     rel="nofollow"
-    href="https://posp.tmf.co.in/pos_agreement/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
+    href="https://posp.tmf.co.in/messages/new?with_id=386926495&referring_id=25947065&referring_type=shop&recipient_id=386926495&from_action=contact-seller"
     
     class="wt-display-inline-block contact-action convo-overlay-trigger inline-overlay-trigger"
     role="button"
@@ -6819,7 +6819,7 @@ if (clientloggerIsEnabled) {
             </div>
 
             <div class="wt-action-group__item-container">
-                    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
+                    <a href="https://posp.tmf.co.in/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2 wt-is-selected"
                         aria-current="true"
                         
                         
@@ -6828,7 +6828,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://posp.tmf.co.in/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="2"
                         
@@ -6837,7 +6837,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://posp.tmf.co.in/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="3"
                         
@@ -6846,7 +6846,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://posp.tmf.co.in/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="4"
                         
@@ -6855,7 +6855,7 @@ if (clientloggerIsEnabled) {
                     </a>
             </div>
             <div class="wt-action-group__item-container">
-                    <a href="https://posp.tmf.co.in/pos_agreement/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
+                    <a href="https://posp.tmf.co.in/" class="wt-action-group__item wt-btn wt-btn--small wt-pr-xs-2 wt-pl-xs-2"
                         
                         data-page="5"
                         
@@ -6867,7 +6867,7 @@ if (clientloggerIsEnabled) {
 
             <div class="wt-action-group__item-container">
                 <a class="wt-action-group__item wt-btn wt-btn--small wt-btn--icon "
-                    href="https://posp.tmf.co.in/pos_agreement/"
+                    href="https://posp.tmf.co.in/"
                     
                     data-page="2"
                     
@@ -7089,7 +7089,7 @@ if (clientloggerIsEnabled) {
     
     <div class="seller-cred wt-width-full wt-display-flex-xs wt-flex-gap-xs-2 wt-flex-direction-column-xs wt-align-items-center wt-mb-xs-3 wt-mb-md-4">
         <div class="wt-position-relative">
-            <a href="https://posp.tmf.co.in/pos_agreement/">
+            <a href="https://posp.tmf.co.in/">
                 <img
     data-clg-id="WtImage"
     class="wt-circle wt-display-block wt-image--cover wt-image"
@@ -7125,12 +7125,12 @@ if (clientloggerIsEnabled) {
 
     <div class="wt-display-flex-xs wt-flex-direction-column-xs wt-justify-content-space-between">
         <div class="wt-display-flex-xs wt-flex-gap-xs-1 wt-align-items-center">
-            <a class="wt-text-link-no-underline" href="https://posp.tmf.co.in/pos_agreement/shop/"><p class="wt-text-heading">GACOR777</p></a>
+            <a class="wt-text-link-no-underline" href="https://posp.tmf.co.in/shop/"><p class="wt-text-heading">GACOR777</p></a>
         </div>
     </div>
     
     <div class="wt-display-flex-xs wt-flex-direction-row-xs wt-flex-wrap">
-        <a class="wt-text-link-no-underline wt-text-body" href="https://posp.tmf.co.in/pos_agreement/">Owned by GACOR777</a>
+        <a class="wt-text-link-no-underline wt-text-body" href="https://posp.tmf.co.in/">Owned by GACOR777</a>
             <span class="divider wt-align-self-center wt-mr-xs-1 wt-ml-xs-1">|</span>
             <p class="wt-text-body">Indonesia</p>
     </div>
@@ -7413,9 +7413,9 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://posp.tmf.co.in/pos_agreement/?ref=breadcrumb_listing">GACOR777</a>
+        <a href="https://posp.tmf.co.in/?ref=breadcrumb_listing">GACOR777</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://posp.tmf.co.in/pos_agreement/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT777</a>
+        <a href="https://posp.tmf.co.in/c/clothing?explicit=1&ref=breadcrumb_listing">SLOT777</a>
 </div></br>
     
     <div id="google-one-tap-modal-div" class="google-one-tap-modal-div">
@@ -7511,7 +7511,7 @@ if (clientloggerIsEnabled) {
                 </legend>
                 <p class="wt-text-body-01 wt-max-width-sm wt-ml-xs-0">
                     Simpan koleksi untuk diri sendiri atau beri inspirasi kepada pembeli lain! Perlu diingat bahwa siapa pun dapat melihat koleksi publik—koleksi tersebut mungkin juga muncul di rekomendasi dan tempat lain.
-                    <a href="https://posp.tmf.co.in/pos_agreement/legal/privacy/" target="_blank">View GACOR777 Privacy Policy</a></p>
+                    <a href="https://posp.tmf.co.in/legal/privacy/" target="_blank">View GACOR777 Privacy Policy</a></p>
             </div>
             <div>
                     <div
@@ -7788,7 +7788,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/giftcards?ref=ftr"
+                        href="https://posp.tmf.co.in/giftcards?ref=ftr"
                         >
                             
                             <span>Gift cards</span>
@@ -7796,7 +7796,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__registry-link'
-                        href="https://posp.tmf.co.in/pos_agreement/registry?ref=ftr"
+                        href="https://posp.tmf.co.in/registry?ref=ftr"
                         >
                             
                             <span>GACOR777 Registry</span>
@@ -7804,7 +7804,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/categories"
+                        href="https://posp.tmf.co.in/categories"
                         >
                             
                             <span>Sitemap</span>
@@ -7820,7 +7820,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/uk?locale_override=GBP%7Cen-GB%7CGB"
+                        href="https://posp.tmf.co.in/uk?locale_override=GBP%7Cen-GB%7CGB"
                         >
                             
                             <span>GACOR777 United Kingdom</span>
@@ -7828,7 +7828,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/de?locale_override=EUR%7Cde%7CDE"
+                        href="https://posp.tmf.co.in/de?locale_override=EUR%7Cde%7CDE"
                         >
                             
                             <span>GACOR777 Germany</span>
@@ -7836,7 +7836,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/ca?locale_override=CAD%7Cen-US%7CCA"
+                        href="https://posp.tmf.co.in/ca?locale_override=CAD%7Cen-US%7CCA"
                         >
                             
                             <span>GACOR777 Canada</span>
@@ -7867,7 +7867,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/sell?ref=ftr"
+                        href="https://posp.tmf.co.in/sell?ref=ftr"
                         >
                             
                             <span>Sell on GACOR777</span>
@@ -7875,7 +7875,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-teams-link'
-                        href="https://posp.tmf.co.in/pos_agreement/"
+                        href="https://posp.tmf.co.in/"
                         rel="nofollow"
                         >
                             
@@ -7884,7 +7884,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" id='collage-footer__community-forums-link'
-                        href="https://posp.tmf.co.in/pos_agreement/"
+                        href="https://posp.tmf.co.in/"
                         rel="nofollow"
                         >
                             
@@ -7893,7 +7893,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/affiliates?ref=ftr"
+                        href="https://posp.tmf.co.in/affiliates?ref=ftr"
                         rel="nofollow"
                         >
                             
@@ -7925,7 +7925,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/about?ref=ftr"
+                        href="https://posp.tmf.co.in/about?ref=ftr"
                         >
                             
                             <span>GACOR777, Inc.</span>
@@ -7933,7 +7933,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/legal?ref=ftr"
+                        href="https://posp.tmf.co.in/legal?ref=ftr"
                         >
                             
                             <span>Policies</span>
@@ -7949,7 +7949,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/careers?ref=ftr"
+                        href="https://posp.tmf.co.in/careers?ref=ftr"
                         >
                             
                             <span>Careers</span>
@@ -7957,7 +7957,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/press?ref=ftr"
+                        href="https://posp.tmf.co.in/press?ref=ftr"
                         >
                             
                             <span>Press</span>
@@ -7965,7 +7965,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/impact?ref=ftr"
+                        href="https://posp.tmf.co.in/impact?ref=ftr"
                         >
                             
                             <span>Impact</span>
@@ -7973,7 +7973,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/help/article/25840304230?ref=ftr"
+                        href="https://posp.tmf.co.in/help/article/25840304230?ref=ftr"
                         >
                             
                             <span>Legal imprint</span>
@@ -8004,7 +8004,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-unstyled wt-text-left-xs wt-pl-sm-0 wt-pr-xs-1">
                     <li class="wt-pt-xs-1 wt-pb-xs-2 wt-pb-md-1 wt-display-block wt-width-full ">
                         <a class="appshell-responsive-footer-link wt-sem-text-on-surface-dark wt-text-link-no-underline" 
-                        href="https://posp.tmf.co.in/pos_agreement/"
+                        href="https://posp.tmf.co.in/"
                         >
                             
                             <span>Help Center</span>
@@ -8026,7 +8026,7 @@ if (clientloggerIsEnabled) {
         <ul class="wt-list-inline wt-mt-xs-3 wt-mb-sm-0 wt-pl-xs-0 wt-pr-xs-0 wt-pl-sm-0 wt-pr-sm-0">
                     <li class="wt-list-inline__item">
                         <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1"
-                           href="https://posp.tmf.co.in/pos_agreement/"
+                           href="https://posp.tmf.co.in/"
                            rel="nofollow"
                                 target="_blank"
                         >
@@ -8036,7 +8036,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-list-inline__item">
                         <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1"
-                           href="https://posp.tmf.co.in/pos_agreement/"
+                           href="https://posp.tmf.co.in/"
                            rel="nofollow"
                                 target="_blank"
                         >
@@ -8046,7 +8046,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-list-inline__item">
                         <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1"
-                           href="https://posp.tmf.co.in/pos_agreement/"
+                           href="https://posp.tmf.co.in/"
                            rel="nofollow"
                                 target="_blank"
                         >
@@ -8056,7 +8056,7 @@ if (clientloggerIsEnabled) {
                     </li>
                     <li class="wt-list-inline__item">
                         <a class="wt-btn wt-btn--small-md wt-btn--transparent wt-btn--transparent-flush-left wt-btn--light wt-btn--icon wt-p-xs-1"
-                           href="https://posp.tmf.co.in/pos_agreement/"
+                           href="https://posp.tmf.co.in/"
                            rel="nofollow"
                                 target="_blank"
                         >
@@ -8090,7 +8090,7 @@ if (clientloggerIsEnabled) {
 
                     <div class="chrome-footer__final-col">
                         <a id="locale-picker-trigger" class="wt-btn wt-btn--transparent wt-btn--transparent-flush-left wt-btn--transparent-flush-right  wt-btn--light  wt-btn--small" aria-label="Update your settings Indonesia English (US) Rp (IDR)"
-    href="https://posp.tmf.co.in/pos_agreement/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay"
+    href="https://posp.tmf.co.in/your/account/locale_preferences?from_page=https%3A%2F%2Flalocandadinonnaflo.com/es%2Fpost" data-aria-controls="wt-locale-picker-overlay"
 >
     <span class="wt-display-inline-block wt-nudge-t-2 wt-vertical-align-middle">    <span class="etsy-icon locale-icon-svg-default wt-display-block wt-text-white&#10;                    wt-icon--smaller-xs wt-nudge-b-2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12,2A10,10,0,1,0,22,12,10.012,10.012,0,0,0,12,2ZM9,18.883v0.528A7.938,7.938,0,0,1,4.06,11.06l3.385,3.385a2.967,2.967,0,0,0,1.649,4.4ZM17.5,15a2.509,2.509,0,0,0,.5-0.05V15a0.992,0.992,0,0,0,.927.985A8,8,0,0,1,12,20c-0.216,0-.427-0.016-0.639-0.032l1.254-2.5-0.015.006A2.968,2.968,0,0,0,13,16a2.988,2.988,0,0,0-5-2.221V11H9a1,1,0,0,0,1-1V9a1,1,0,0,0,1-1,1,1,0,0,0,0-2H6.726A7.9,7.9,0,0,1,14,4.263V6a1,1,0,0,0,2,0V5.082a8.047,8.047,0,0,1,2,1.649V7H17a1,1,0,0,0,0,2h2.411a7.941,7.941,0,0,1,.326,1H17a2.556,2.556,0,0,0-2,2.5A2.5,2.5,0,0,0,17.5,15Z"/></svg></span>
 </span>
@@ -8142,91 +8142,91 @@ if (clientloggerIsEnabled) {
     <div class="wt-display-flex-md wt-pt-xs-1 wt-pt-md-1 wt-text-body-01">
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
+                    <a href="https://posp.tmf.co.in/au?locale_override=AUD%7Cen-GB%7CAU">Australia</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/at?locale_override=EUR%7Cde%7CAT">Austria</a>
+                    <a href="https://posp.tmf.co.in/at?locale_override=EUR%7Cde%7CAT">Austria</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
+                    <a href="https://posp.tmf.co.in/be?locale_override=EUR%7Cnl%7CBE">Belgium</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
+                    <a href="https://posp.tmf.co.in/ca?locale_override=CAD%7Cen-GB%7CCA">Canada</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
+                    <a href="https://posp.tmf.co.in/ca-fr?locale_override=CAD%7Cfr%7CCA">Canada (French)</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
+                    <a href="https://posp.tmf.co.in/dk-en?locale_override=DKK%7Cen-GB%7CDK">Denmark</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
+                    <a href="https://posp.tmf.co.in/fi-en?locale_override=EUR%7Cen-US%7CFI">Finland</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/fr?locale_override=EUR%7Cfr%7CFR">France</a>
+                    <a href="https://posp.tmf.co.in/fr?locale_override=EUR%7Cfr%7CFR">France</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/de?locale_override=EUR%7Cde%7CDE">Germany</a>
+                    <a href="https://posp.tmf.co.in/de?locale_override=EUR%7Cde%7CDE">Germany</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
+                    <a href="https://posp.tmf.co.in/hk-en?locale_override=HKD%7Cen-GB%7CHK">Hong Kong</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
+                    <a href="https://posp.tmf.co.in/in-en?locale_override=INR%7Cen-IN%7CIN">India</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
+                    <a href="https://posp.tmf.co.in/ie?locale_override=EUR%7Cen-GB%7CIE">Ireland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
+                    <a href="https://posp.tmf.co.in/il-en?locale_override=ILS%7Cen-GB%7CIL">Israel</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/it?locale_override=EUR%7Cit%7CIT">Italy</a>
+                    <a href="https://posp.tmf.co.in/it?locale_override=EUR%7Cit%7CIT">Italy</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
+                    <a href="https://posp.tmf.co.in/jp?locale_override=JPY%7Cja%7CJP">Japan</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
+                    <a href="https://posp.tmf.co.in/mx?locale_override=MXN%7Ces%7CMX">Mexico</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
+                    <a href="https://posp.tmf.co.in/nz?locale_override=NZD%7Cen-GB%7CNZ">New Zealand</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
+                    <a href="https://posp.tmf.co.in/no-en?locale_override=NOK%7Cen-GB%7CNO">Norway</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
+                    <a href="https://posp.tmf.co.in/pl?locale_override=PLN%7Cpl%7CPL">Poland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
+                    <a href="https://posp.tmf.co.in/pt?locale_override=EUR%7Cpt%7CPT">Portugal</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4 country-picker-col-space">
-                    <a href="https://posp.tmf.co.in/pos_agreement/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
+                    <a href="https://posp.tmf.co.in/sg-en?locale_override=SGD%7Cen-GB%7CSG">Singapore</a>
                 </div>
         </div>
         <div class="wt-flex-basis-sm-full wt-flex-basis-md-auto wt-flex-wrap">
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/es?locale_override=EUR%7Ces%7CES">Spain</a>
+                    <a href="https://posp.tmf.co.in/es?locale_override=EUR%7Ces%7CES">Spain</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
+                    <a href="https://posp.tmf.co.in/se-en?locale_override=SEK%7Cen-GB%7CSE">Sweden</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
+                    <a href="https://posp.tmf.co.in/ch?locale_override=CHF%7Cde%7CCH">Switzerland</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
+                    <a href="https://posp.tmf.co.in/nl?locale_override=EUR%7Cnl%7CNL">The Netherlands</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
+                    <a href="https://posp.tmf.co.in/uk?locale_override=GBP%7Cen-GB%7CGB">United Kingdom</a>
                 </div>
                 <div class="wt-pt-xs-1 wt-pb-xs-1 wt-pl-xs-0 wt-pr-xs-0 wt-mb-md-5 wt-mb-xs-4">
-                    <a href="https://posp.tmf.co.in/pos_agreement/?locale_override=USD%7Cen-US%7CUS">United States</a>
+                    <a href="https://posp.tmf.co.in/?locale_override=USD%7Cen-US%7CUS">United States</a>
                 </div>
         </div>
     </div>
@@ -8268,7 +8268,7 @@ if (clientloggerIsEnabled) {
             <input type="hidden" name="region_code" value=""/>
 
             <p class="wt-mb-xs-3 wt-text-body-01">
-                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/help/article/493" target="_blank">Learn more.</a>
+                Set where you live, what language you speak, and the currency you use. <a class="wt-text-link" href="https://posp.tmf.co.in/help/article/493" target="_blank">Learn more.</a>
             </p>
 
                 <div id="locale-picker-sections-wrap">
@@ -8663,7 +8663,7 @@ if (clientloggerIsEnabled) {
 <li>Slot Gacor</li>
 <li>Slot Gacor Resmi</li>
 </ul>
-<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di GACOR777 <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/legal/privacy">Privacy Policy</a>.</p>
+<p class="wt-text-caption wt-line-height-tight wt-text-link">Informasi lebih lanjut dapat ditemukan di GACOR777 <a class="wt-text-link" href="https://posp.tmf.co.in/legal/cookies-and-tracking-technologies">Kebijakan Cookie & Teknologi Serupa</a> atau di <a class="wt-text-link" href="https://posp.tmf.co.in/legal/privacy">Privacy Policy</a>.</p>
     </div>
 
     <div class="wt-pt-xl-6 wt-display-flex-xl wt-pt-lg-6 wt-display-flex-lg wt-pt-md-6 wt-display-flex-md wt-pt-sm-6 wt-display-flex-sm wt-pt-xs-6 wt-display-flex-xs">
@@ -8682,7 +8682,7 @@ if (clientloggerIsEnabled) {
         <div class="wt-flex-xl-5 wt-flex-lg-5 wt-flex-md-5 wt-flex-sm-5 wt-flex-xs-5">
             <h2 class="wt-text-title-01 wt-mb-xs-4 wt-break-word">Periklanan yang Dipersonalisasi</h2>
 <p class="wt-text-caption wt-mb-xs-2">Untuk mengaktifkan iklan yang dipersonalisasi (seperti iklan berbasis minat), kami dapat membagikan data Anda dengan mitra pemasaran dan periklanan kami menggunakan cookie dan teknologi lainnya. Mitra tersebut mungkin memiliki informasi mereka sendiri yang telah mereka kumpulkan tentang Anda. Menonaktifkan pengaturan iklan yang dipersonalisasi tidak akan menghentikan Anda melihat iklan GACOR777, tetapi dapat membuat iklan yang Anda lihat kurang relevan atau lebih berulang.</p>
-<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://posp.tmf.co.in/pos_agreement/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
+<p class="wt-text-caption wt-mb-xs-2"> Iklan yang dipersonalisasi dapat dianggap sebagai "penjualan" atau "pembagian" informasi berdasarkan undang-undang privasi California dan negara bagian lainnya, dan Anda mungkin memiliki hak untuk memilih keluar. Menonaktifkan iklan yang dipersonalisasi memungkinkan Anda untuk menggunakan hak Anda untuk memilih keluar. Pelajari lebih lanjut di <a class="wt-text-link" href="https://posp.tmf.co.in/legal/privacy/">Privacy Policy.</a>, <a class="wt-text-link" href="https://posp.tmf.co.in/help/hc/en-us/articles/360042433614-How-to-Opt-out-of-Personalized-Advertising">Help Center</a>, dan <a class="wt-text-link" href="https://posp.tmf.co.in/legal/cookies">Cookies &amp; Similar Technologies Policy</a>.</p>
         </div>
         <div class="wt-flex-xl-1 wt-flex-lg-1 wt-flex-md-1 wt-flex-sm-1 wt-flex-xs-1">
             <div class="wt-display-flex-xl wt-display-flex-lg wt-display-flex-md wt-display-flex-sm wt-display-flex-xs wt-justify-content-flex-end">
